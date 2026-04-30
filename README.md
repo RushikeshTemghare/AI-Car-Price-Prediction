@@ -1,4 +1,4 @@
-# 🚗 AI Car Price Prediction
+# AI Car Price Prediction
 
 ## Predictive Modelling of Sports Car Prices Using AI Techniques
 
