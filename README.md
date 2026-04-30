@@ -93,8 +93,8 @@ AI-Car-Price-Prediction/
 
 ## 👤 Author
 
-**Rushikesh Temghare**
-MSc Data Science & Artificial Intelligence
+**Rushikesh Temghare**  
+MSc Data Science & Artificial Intelligence  
 Student ID: s5649692
 
 ---
