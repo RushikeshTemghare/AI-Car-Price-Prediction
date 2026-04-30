@@ -25,6 +25,7 @@ Accurate pricing models are valuable for:
 
 ## 📂 Repository Structure
 
+```
 AI-Car-Price-Prediction/
 │
 ├── report/
@@ -38,8 +39,7 @@ AI-Car-Price-Prediction/
 │
 ├── LICENSE
 └── README.md
-
----
+```
 
 ## 📊 Dataset
 
